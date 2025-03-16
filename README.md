@@ -26,7 +26,7 @@ This Flask-based web application serves as a comprehensive finance tracker, enab
 #### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 #### Transaction_page
-![Transaction_page](screenshots/transactions.png)
+![Transaction_page](screenshots/transaction.png)
 #### Statistics page
 ![Statistics page](screenshots/statistics.png)
 
