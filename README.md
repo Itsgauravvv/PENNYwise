@@ -1,6 +1,6 @@
-# Finance Tracker Flask App
+# PENNYwise
 
-This Flask-based web application serves as a comprehensive finance tracker, enabling users to manage their expenses and income securely. It provides features for user registration, authentication, transaction management, and analytical insights into spending habits.
+PENNYwise is a Flask-based web application which serves as a comprehensive finance tracker, enabling users to manage their expenses and income securely. It provides features for user registration, authentication, transaction management, and analytical insights into spending habits.
 
 ## Features
 
@@ -9,9 +9,9 @@ This Flask-based web application serves as a comprehensive finance tracker, enab
 - **Analytics**: Insights into spending patterns by payment method and category.
 - **Responsive Interface**: User-friendly design for easy navigation and interaction.
 
-## Live Preview
+## Demo
 
-<a href="https://0xramm.pythonanywhere.com/" target="_blank">Finance-Tracker-Live-Preview</a>
+<a href="https://drive.google.com/file/d/1dLR8XuroIwXyMJE7c7mmD5NRQUiGig1s/view?usp=sharing" target="_blank">PENNYwise-Demo</a>
 
 
 
@@ -30,42 +30,6 @@ This Flask-based web application serves as a comprehensive finance tracker, enab
 #### Statistics page
 ![Statistics page](screenshots/statistics.png)
 
-
-
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/0xramm/Finance-Tracker.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Finance-Tracker
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Initialize the SQLite database:
-
-   ```bash
-   python app.py
-   ```
-
-2. Open the application in your web browser:
-
-   ```
-   http://localhost:5000/
-   ```
 
 ## Contributing
 
